@@ -1,4 +1,7 @@
 # Bee detection and tracking
+Main article:
+https://www.mixtile.com/ai-based-bee-detection-and-tracking/
+
 Steps to follow:
 
 <ul>
